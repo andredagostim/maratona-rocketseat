@@ -38,7 +38,7 @@ const initDb = {
          5,
          5,
          4,
-         0
+         60
       );`);
 
       await db.run(`INSERT INTO jobs (
